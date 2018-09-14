@@ -1,0 +1,29 @@
+{
+  "name": "react-admin",
+  "version": "0.0.1",
+  "description": "reat antd administrator management system",
+  "main": "index.js",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duzliang/react-admin.git"
+  },
+  "keywords": [
+    "react",
+    "antd"
+  ],
+  "author": "Duke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duzliang/react-admin/issues"
+  },
+  "homepage": "https://github.com/duzliang/react-admin#readme",
+  "devDependencies": {
+    "umi": "^2.0.3",
+    "umi-plugin-react": "^1.0.3"
+  }
+}
